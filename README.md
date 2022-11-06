@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot on desktop](./screenshot-desktop.png)
-![screenshot on mobile](./screenshot-mobile.png)
+![screenshot on desktop](https://i.imgur.com/k7vMPKy.png)
+![screenshot on mobile](https://i.imgur.com/rrWbE7s.png)
 
 ### Links
 
