@@ -47,3 +47,4 @@ style-guide.md
 
 # Lockfiles
 yarn.lock
+.vercel
