@@ -140,13 +140,19 @@ button.add-cart {
   align-self: center;
   padding: 0.75rem 2rem;
   border-radius: 0.5rem;
+
+  &:hover {
+    background-color: $vdark-blue;
+    transition: all 200ms linear;
+    cursor: pointer;
+  }
+
+  &:active {
+    transform: scale(0.95);
+    transition: transform 50ms ease-in-out;
+  }
 }
 
-button.add-cart:hover {
-  background-color: $vdark-blue;
-  transition: all 200ms linear;
-  cursor: pointer;
-}
 
 .attribution {
   position: absolute;
